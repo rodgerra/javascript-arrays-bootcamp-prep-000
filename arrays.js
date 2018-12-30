@@ -22,3 +22,4 @@ function removeElementFromBeginningOfArray(array,element) {
   array.shift(element);
   return array;
 }
+function removeElementFromEndOfArray
